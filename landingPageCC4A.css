@@ -1,3 +1,4 @@
+
 * {scroll-behavior: smooth; margin:0; padding:0;outline: none;box-sizing: border-box;list-style: none;text-decoration: none;}
 /*
 ::selection {}
@@ -5,10 +6,6 @@
 
 ul {list-style-type: none;}
 a {text-decoration: none;}
-/*grammarly BS*/
-div.grammarly-desktop-integration {position: absolute;width: 1px;height: 1px;padding: 0;margin: -1px;overflow: hidden;clip: rect(0, 0, 0, 0);white-space: nowrap;border: 0;-moz-user-select: none;-webkit-user-select: none;-ms-user-select:none;user-select:none;}
-
-div.grammarly-desktop-integration:before {content: attr(data-content);}
 /*Loading I guess*/
 .CC4A-loading-wrapper {width: 100%;height:100%;position: fixed;top: 0;z-index: 100%;}
 .CC4A-loading-wrapper .CC4A-loading-letters {position: fixed;bottom: 50%;right: 50%;}
