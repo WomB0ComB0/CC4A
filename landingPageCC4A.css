@@ -14,7 +14,7 @@ div.grammarly-desktop-integration:before {content: attr(data-content);}
 .CC4A-loading-wrapper .CC4A-loading-letters {position: fixed;bottom: 50%;right: 50%;}
 .CC4A-loading-letters{animation-name: CC4A-Loading;animation-duration:1.6s;animation-iteration-count:infinite;animation-direction: linear;}
 /*Change the font weight and style, dont't think this will work*/
-.l-1 {font-weight:bold;animation-delay: 0.48s;}
+.l-1 {animation-delay: 0.48s;}
 .l-2 {animation-delay: 0.6s;}
 .l-3 {animation-delay: 0.72s;}
 .l-4 {animation-delay: 0.84s;}
